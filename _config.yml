@@ -10,3 +10,6 @@ github_username:  lurcio
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
