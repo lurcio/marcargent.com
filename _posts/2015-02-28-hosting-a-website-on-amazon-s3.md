@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Hosting a Website on Amazon S3"
+layout:    post
+title:     "Hosting a Website on Amazon S3"
+date:      2015-02-28 22:30:37
 published: true
 ---
 This is a basic guide covering how to host a static website using Amazon's S3 service. Subsequent guides will delve into Jekyll (a static site generator), configuring a custom domain name for your site, and speeding up access to your site by adding support for the Amazon CloudFront content delivery network.
